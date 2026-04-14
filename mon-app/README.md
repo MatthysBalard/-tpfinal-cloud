@@ -1,5 +1,7 @@
-# Vue 3 + Vite
+# url github : https://github.com/MatthysBalard/-tpfinal-cloud.git
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+# 1.B 
+- lignes 3 et 4 -> Copy avant le run, le programme re run l'install en permanence, plus lourd
+- ligne 1 -> pas de version au node, imprécis, peu amener à beaucoup de complications de versions
+- lignes 7 et 9 -> exposition du port avant l'import de l'image nginx, le port n'est pas relié à nginx.
+- pas de lignes -> pas de cmd sur nginx, on ne lance pas nginx
