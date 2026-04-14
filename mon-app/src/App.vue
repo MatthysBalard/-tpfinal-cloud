@@ -10,4 +10,4 @@ const today = new Date().toLocaleDateString('fr-FR')
 </header>
 </template>
 
-<style>p{background-color:red}</style>
+<style>p{background-color:greenyellow}</style>
